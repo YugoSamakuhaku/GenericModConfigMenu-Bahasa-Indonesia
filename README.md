@@ -1,7 +1,8 @@
 # [Generic Mod Config Menu - Bahasa Indonesia](https://github.com/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia)
 
 > Terjemahan Bahasa Indonesia untuk [Mod Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
-BLM
+
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia?label=Versi%20Terbaru&style=plastic) ![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia?label=license&style=plastic)
 <img src="https://github.com/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia/blob/959f2016b137d7c63e14d3766e50194dcc2b150d/images/GenericModConfigMenu-Settings.png" />
 <img src="https://github.com/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia/blob/959f2016b137d7c63e14d3766e50194dcc2b150d/images/GenericModConfigMenu-Settings-Config.png" />
 ## 📦 Persyaratan Mod
