@@ -15,7 +15,7 @@
 | [`Content Patcher`](https://www.nexusmods.com/stardewvalley/mods/1915) | **Wajib Memasang Mod ini** |
 | [`SMAPI - Stardew Modding API`](https://www.nexusmods.com/stardewvalley/mods/1063?tab=description) | **Wajib Memasang Mod ini** |
 
-## 🧾 Deskripsi Singkat Automate - Bahasa Indonesia!
+## 🧾 Deskripsi Singkat Generic Mod Config Menu - Bahasa Indonesia!
 Mod ini bersi file terjemahan default.json [`Generic Mod Config Menu`](https://www.nexusmods.com/stardewvalley/mods/5098) menjadi id.json yang berdasarkan [`(CP) Indonesian Language Mod`](https://www.nexusmods.com/stardewvalley/mods/1057).
 
 ### 📚 Cara Pemasangan Mod
@@ -27,7 +27,7 @@ Mod ini bersi file terjemahan default.json [`Generic Mod Config Menu`](https://w
 6. Jika anda telah selesai melakukan copy file dan mengikuti cara pemasangan ini, saya berharap Mod anda berhasil menjadi Bahasa Indonesia🤩.
 
 ### 🥰 Kenapa Saya Membuat Mod ini?
-Ya tentu saja, karena saya terinspirasi dengan pencipta [`(CP) Indonesian Language Mod`](https://www.nexusmods.com/stardewvalley/mods/1057) yang menerjemahkan stardew valley menjadi Bahasa Indonesia. Tentu saja saya memasang mod lain (Contoh: Mod Automate) dan saat melihat konfigurasi mod tersebut dengan tampilan Bahasa Inggris, otak saya bisa menjadi lag tentu saja, maka dari itu daripada melihat tampilan **BAHASA INDONESIA DI MIX DENGAN BAHASA INGGRIS** saya bertekad untuk merubah mod yang saya pasang menjadi Bahasa Indonesia (Itupun kalau bisa saya terjemahkan dan modnya support multi bahasa). Begitulah kisah saya
+Ya tentu saja, karena saya terinspirasi dengan pencipta [`(CP) Indonesian Language Mod`](https://www.nexusmods.com/stardewvalley/mods/1057) yang menerjemahkan stardew valley menjadi Bahasa Indonesia. Tentu saja saya memasang mod lain (Contoh: Mod Generic Mod Config Menu) dan saat melihat konfigurasi mod tersebut dengan tampilan Bahasa Inggris, otak saya bisa menjadi lag tentu saja, maka dari itu daripada melihat tampilan **BAHASA INDONESIA DI MIX DENGAN BAHASA INGGRIS** saya bertekad untuk merubah mod yang saya pasang menjadi Bahasa Indonesia (Itupun kalau bisa saya terjemahkan dan modnya support multi bahasa). Begitulah kisah saya
 
 
 ## 💬 Pihak Bersangkutan & Pihak Berkontribusi
