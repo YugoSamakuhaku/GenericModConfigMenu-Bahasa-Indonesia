@@ -22,7 +22,7 @@ Mod ini bersi file terjemahan default.json [`Generic Mod Config Menu`](https://w
 1. Download dan pasang semua **persyaratan Mod** di atas.
 2. Download Mod [Generic Mod Config Menu - Bahasa Indonesia](https://github.com/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia/releases/latest).
 3. Anda buka **Folder Mod Anda** dan cari [**Folder Mod Generic Mod Config Menu**](https://www.nexusmods.com/stardewvalley/mods/5098).
-4. Apakah anda melihat **Folder i18n** pada Mod Automate Anda?
+4. Apakah anda melihat **Folder i18n** pada Mod Anda?
 5. Jika **iya**, copy id.json pada Mod [Generic Mod Config Menu - Bahasa Indonesia](https://github.com/YugoSamakuhaku/GenericModConfigMenu-Bahasa-Indonesia/releases/latest) kedalam [**Folder i18n**](https://www.nexusmods.com/stardewvalley/mods/5098).
 6. Jika anda telah selesai melakukan copy file dan mengikuti cara pemasangan ini, saya berharap Mod anda berhasil menjadi Bahasa Indonesia🤩.
 
